@@ -8,7 +8,7 @@ int	main (void)
 
 	p = 0;
 	w = 104;
-	while (p == 48)
+	while (p == 0)
 	{
 		if (w)
 		{
